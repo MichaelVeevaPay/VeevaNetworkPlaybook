@@ -1,5 +1,5 @@
 ---
-id: doc3
+id: doc5
 title: This is document number 3
 ---
 
