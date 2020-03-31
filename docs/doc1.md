@@ -4,7 +4,6 @@ title: How to Use This Playbook
 sidebar_label: How to Use This Playbook
 ---
 
-Test Update
 
 This document is a compilation of configuration notes and techniques used for setting up the Veeva Network-CRM Bridge integration. This describes what the “standard bridge” configuration would entail; some variance is expected for any given customer implementation because not all features are relevant to all customers.
 
